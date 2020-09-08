@@ -1,0 +1,56 @@
+[
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$jcWGGBrxGbFc$n6EC/L4zV+EjUxYNNiLbhVRF/EkL0dkZJetGvDa7Bjc=",
+    "last_login": "2020-09-08T23:08:43.787Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "Malik",
+    "last_name": "Imenov",
+    "email": "ivaanlev89@mail.ru",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2020-09-08T21:35:14.057Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$vhz0Dotm7Sfh$taGFm+dyW2lD98zLmr9bHeP6dV/FOGW+HUouAdCo/DQ=",
+    "last_login": "2020-09-08T22:56:33.701Z",
+    "is_superuser": false,
+    "username": "Malik",
+    "first_name": "Malik12",
+    "last_name": "Imenov",
+    "email": "ivaanlev89@mail.ru",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2020-09-08T22:56:33.410Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$61ipbgUiyeTY$86zQDxkI+Mi8QjW2Nawi3wJ+Ug4UmNwJKzIrBWtuwJo=",
+    "last_login": "2020-09-08T23:12:53.643Z",
+    "is_superuser": false,
+    "username": "_imenova_a",
+    "first_name": "Sabyr",
+    "last_name": "Imenov",
+    "email": "ivaanlev89@mail.ru",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2020-09-08T23:12:53.364Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
